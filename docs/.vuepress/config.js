@@ -7,6 +7,7 @@ module.exports = {
   themeConfig: {
     nav: [
         { text: '指南', link: '/' },
+        { text: 'Github', link: 'https://github.com/stormzhangbx/vuePress-template' },
     ]
   }
 }
