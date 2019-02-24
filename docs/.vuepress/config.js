@@ -28,9 +28,9 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
-    repo: 'vuePress-templage',
+    repo: 'stormzhangbx/vuePress-templage',
     repoLabel: '查看源码',
-    docsRepo: 'vuePress-templage',
+    docsRepo: 'stormzhangbx/vuePress-templage',
     editLinks: true,
     editLinkText: '帮助我们改善此页面！'
   }
