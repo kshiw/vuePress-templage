@@ -6,8 +6,7 @@ module.exports = {
   ],
   themeConfig: {
     nav: [
-        { text: '指南', link: '/guide/' },
-        { text: 'Github', link: 'https://github.com/stormzhangbx/vuePress-template' },
+        { text: '指南', link: '/guide/' }
     ],
     sidebar: {
       // sidebar: [
@@ -29,9 +28,9 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
-    repo: 'https://github.com/stormzhangbx/stormzhangbx.github.io',
+    repo: 'vuePress-templage',
     repoLabel: '查看源码',
-    docsRepo: 'https://github.com/stormzhangbx/vuePress-templage',
+    docsRepo: 'vuePress-templage',
     editLinks: true,
     editLinkText: '帮助我们改善此页面！'
   }
