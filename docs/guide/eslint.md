@@ -5,7 +5,7 @@
 2. 使用两个空格进行缩进。`eslint: indent`
   ```js
   function hello (name) {
-    console.log('hi', name)
+    console.log('hello', name)
   }
   ```
 
