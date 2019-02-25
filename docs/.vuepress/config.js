@@ -31,6 +31,7 @@ module.exports = {
     repo: 'stormzhangbx/vuePress-templage',
     repoLabel: '查看源码',
     docsRepo: 'stormzhangbx/vuePress-templage',
+    docsDir: 'docs',
     editLinks: true,
     editLinkText: '帮助我们改善此页面！'
   }
